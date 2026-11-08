@@ -1,0 +1,181 @@
+[de-de]
+name = "Kavita"
+auth = "Kavita"
+descript = "Blitzschnell und mit elegantem Design ist Kavita eine extrem leistungsfähige, selbstgehostete digitale Bibliothek, die eine Vielzahl von Dateiformaten unterstützt. Installieren Sie Kavita, um mit dem Lesen zu beginnen und teilen Sie Ihren Server mit Ihren Freunden."
+release_note = "Enthält Kavita v0.9.1.4 aus dem Quellcode gepackt"
+important    = ""
+
+[en-us]
+name = "Kavita"
+auth = "Kavita"
+descript = "Lighting fast with a slick design, Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats. Install to start reading and share your server with your friends."
+release_note = "Bundles Kavita v0.9.1.4 packed from source"
+important    = ""
+
+[es-es]
+name = "Kavita"
+auth = "Kavita"
+descript = "Rápida como un rayo y con un diseño elegante, Kavita es una biblioteca digital autoalojada de alto rendimiento que admite una gran variedad de formatos de archivo. Instálala para empezar a leer y compartir tu servidor con tus amigos."
+release_note = "Incluye Kavita v0.9.1.4 empaquetado desde el código fuente"
+important    = ""
+
+[fr-fr]
+name = "Kavita"
+auth = "Kavita"
+descript = "Rapide comme l'éclair avec un design élégant, Kavita est une bibliothèque numérique auto-hébergée ultra-performante qui prend en charge un large éventail de formats de fichiers. Installez-la pour commencer à lire et partagez votre serveur avec vos amis."
+release_note = "Inclut Kavita v0.9.1.4 paqueté depuis la source"
+important    = ""
+
+[hu-hu]
+name = "Kavita"
+auth = "Kavita"
+descript = "A villámgyors és elegáns kialakítású Kavita egy nagy teljesítményű, saját szerveren futtatható digitális könyvtár, amely fájlformátumok széles skáláját támogatja. Telepítse az olvasás megkezdéséhez, és ossza meg szerverét barátaival."
+release_note = "Tartalmazza az forrásból csomagolt Kavita v0.9.1.4 verziót"
+important    = ""
+
+[it-it]
+name = "Kavita"
+auth = "Kavita"
+descript = "Velocissima e dal design elegante, Kavita è una libreria digitale self-hosted ad alte prestazioni che supporta una vasta gamma di formati di file. Installa per iniziare a leggere e condividi il tuo server con i tuoi amici."
+release_note = "Include Kavita v0.9.1.4 pacchettizzato dai sorgenti"
+important    = ""
+
+[ja-jp]
+name = "Kavita"
+auth = "Kavita"
+descript = "洗練されたデザインと圧倒的なスピードを誇るKavitaは、広範囲なファイルフォーマットに対応したセルフホスト型デジタルライブラリです。インストールして読書を始め、友人とサーバーを共有しましょう。"
+release_note = "ソースからビルドされた Kavita v0.9.1.4 を同梱"
+important    = ""
+
+[ko-kr]
+name = "Kavita"
+auth = "Kavita"
+descript = "세련된 디자인과 초고속 성능을 자랑하는 Kavita는 다양한 파일 형식을 지원하는 자체 호스팅 디지털 라이브러리입니다. 설치하여 독서를 시작하고 친구들과 서버를 공유하세요."
+release_note = "소스타입에서 패키징된 Kavita v0.9.1.4 포함"
+important    = ""
+
+[pl-pl]
+name = "Kavita"
+auth = "Kavita"
+descript = "Błyskawicznie szybka i o eleganckim wyglądzie, Kavita to samodzielnie hostowana cyfrowa biblioteka o wysokiej wydajności, która obsługuje szeroką gamę formatów plików. Zainstaluj, aby rozpocząć czytanie i udostępnić swój serwer znajomym."
+release_note = "Zawiera Kavita v0.9.1.4 zapakowane ze źródeł"
+important    = ""
+
+[pt-pt]
+name = "Kavita"
+auth = "Kavita"
+descript = "Ultra-rápida e com um design elegante, a Kavita é uma biblioteca digital alojada no próprio servidor de alto desempenho que suporta uma vasta gama de formatos de ficheiro. Instale para começar a ler e partilhe o seu servidor com os seus amigos."
+release_note = "Inclui Kavita v0.9.1.4 empacotado a partir da fonte"
+important    = ""
+
+[ru-ru]
+name = "Kavita"
+auth = "Kavita"
+descript = "Молниеносная и с элегантным дизайном, Kavita — это высокопроизводительная цифровая библиотека для локального размещения, поддерживающая широкий спектр форматов файлов. Установите, чтобы начать чтение, и поделитесь своим сервером с друзьями."
+release_note = "Содержит Kavita v0.9.1.4, собранный из исходного кода"
+important    = ""
+
+[tr-tr]
+name = "Kavita"
+auth = "Kavita"
+descript = "Şık tasarımı ve ışık hızındaki performansıyla Kavita, geniş bir dosya biçimi yelpazesini destekleyen yüksek performanslı, kendi sunucunuzda barındırabileceğiniz bir dijital kütüphanedir. Okumaya başlamak için yükleyin ve sunucunuzu arkadaşlarınızla paylaşın."
+release_note = "Kaynak koddan paketlenmiş Kavita v0.9.1.4 sürümünü içerir"
+important    = ""
+
+[zh-cn]
+name = "Kavita"
+auth = "Kavita"
+descript = "Kavita 拥有精美的设计与极速的响应，是一款功能强大的自托管数字图书馆，支持丰富的文件格式。立即安装开始阅读，并与朋友分享您的服务器。"
+release_note = "包含从源码打包的 Kavita v0.9.1.4"
+important    = ""
+
+[zh-hk]
+name = "Kavita"
+auth = "Kavita"
+descript = "Kavita 擁有精美的設計與極速的響應，是一款功能強大的自託管數位圖書館，支援豐富的檔案格式。立即安裝開始閱讀，並與朋友分享您的伺服器。"
+release_note = "包含從原始碼打包的 Kavita v0.9.1.4"
+important    = ""
+
+[cs-cz]
+name = "Kavita"
+auth = "Kavita"
+descript = "Bleskově rychlá a s elegantním designem – Kavita je vysoce výkonná digitální knihovna pro vlastní hosting, která podporuje širokou škálu formátů souborů. Nainstalujte ji, začněte číst a sdílejte svůj server s přáteli."
+release_note = "Obsahuje Kavita v0.9.1.4 zabalené ze zdroje"
+important    = ""
+
+[da-dk]
+name = "Kavita"
+auth = "Kavita"
+descript = "Lynhurtig og med et elegant design er Kavita et kraftfuldt selv-hostet digitalt bibliotek, der understøtter et bredt udvalg af filformater. Installer for at starte læsningen og del din server med dine venner."
+release_note = "Indeholder Kavita v0.9.1.4 pakket fra kildekode"
+important    = ""
+
+[nl-nl]
+name = "Kavita"
+auth = "Kavita"
+descript = "Rendsnel en met een strak ontwerp is Kavita een krachtige zelfgehoste digitale bibliotheek die een breed scala aan bestandsformaten ondersteunt. Installeer om te beginnen met lezen en deel je server met je vrienden."
+release_note = "Bevat Kavita v0.9.1.4 verpakt vanuit de broncode"
+important    = ""
+
+[nb-no]
+name = "Kavita"
+auth = "Kavita"
+descript = "Lynhurtig og med et elegant design er Kavita et kraftfullt selvhostet digitalt bibliotek som støtter et bredt utvalg av filformater. Installer for å begynne å lese og del serveren din med vennene dine."
+release_note = "Inneholder Kavita v0.9.1.4 pakket fra kildekode"
+important    = ""
+
+[sv-se]
+name = "Kavita"
+auth = "Kavita"
+descript = "Blixtsnabb och med en snygg design är Kavita ett kraftfullt egenhostat digitalt bibliotek som stöder ett brett utbud av filformat. Installera för att börja läsa och dela din server med dina vänner."
+release_note = "Innehåller Kavita v0.9.1.4 packad från källkod"
+important    = ""
+
+[el-gr]
+name = "Kavita"
+auth = "Kavita"
+descript = "Αστραπιαία γρήγορη και με κομψό σχεδιασμό, η Kavita είναι μια αυτοφιλοξενούμενη ψηφιακή βιβλιοθήκη υψηλών επιδόσεων που υποστηρίζει μια ευρεία γκάμα μορφών αρχείων. Εγκαταστήστε την για να ξεκινήσετε την ανάγνωση και μοιραστείτε τον διακομιστή σας με τους φίλους σας."
+release_note = "Περιλαμβάνει το Kavita v0.9.1.4 πακεταρισμένο από τον πηγαίο κώδικα"
+important    = ""
+
+[ro-ro]
+name = "Kavita"
+auth = "Kavita"
+descript = "Rapid ca fulgerul și cu un design elegant, Kavita este o bibliotecă digitală self-hosted de înaltă performanță care suportă o gamă largă de formate de fișiere. Instalează-l pentru a începe să citești și distribuie serverul tău prietenilor."
+release_note = "Include Kavita v0.9.1.4 împachetat din sursă"
+important    = ""
+
+[th-th]
+name = "Kavita"
+auth = "Kavita"
+descript = "Kavita ทำงานได้อย่างรวดเร็วดุจสายฟ้าพร้อมดีไซน์ที่โฉบเฉี่ยว เป็นห้องสมุดดิจิทัลแบบ Self-hosted ทรงพลังที่รองรับไฟล์หลากหลายรูปแบบ ติดตั้งเพื่อเริ่มอ่านและแชร์เซิร์ฟเวอร์ของคุณกับเพื่อนๆ"
+release_note = "รวมแพ็กเกจ Kavita v0.9.1.4 ที่บิวด์จากซอร์สโค้ด"
+important    = ""
+
+[vi-vn]
+name = "Kavita"
+auth = "Kavita"
+descript = "Nhanh như chớp cùng thiết kế hiện đại, Kavita là thư viện kỹ thuật số tự host mạnh mẽ hỗ trợ nhiều định dạng tệp khác nhau. Cài đặt để bắt đầu đọc và chia sẻ máy chủ của bạn với bạn bè."
+release_note = "Đi kèm Kavita v0.9.1.4 được đóng gói từ mã nguồn"
+important    = ""
+
+[id-id]
+name = "Kavita"
+auth = "Kavita"
+descript = "Sangat cepat dengan desain yang elegan, Kavita adalah perpustakaan digital self-hosted berkinerja tinggi yang mendukung berbagai macam format berkas. Instal untuk mulai membaca dan bagikan server Anda dengan teman-teman Anda."
+release_note = "Menyertakan Kavita v0.9.1.4 yang dikemas dari sumber"
+important    = ""
+
+[ar-sa]
+name = "Kavita"
+auth = "Kavita"
+descript = "سريع للغاية وبتصميم أنيق، Kavita هي مكتبة رقمية مضافة ذاتياً ذات أداء عالٍ تدعم مجموعة واسعة من صيغ الملفات. قم بالتثبيت للبدء في القراءة ومشاركة الخادم الخاص بك مع أصدقائك."
+release_note = "يتضمن Kavita v0.9.1.4 معبأ من المصدر"
+important    = ""
+
+[he-il]
+name = "Kavita"
+auth = "Kavita"
+descript = "מהירה כמו ברק ובעלת עיצוב אלגנטי, Kavita היא ספרייה דיגיטלית בהתקנה עצמית בעלת ביצועים גבוהים התומכת במגוון רחב של פורמטי קבצים. התקן כדי להתחיל לקרוא ושתף את השרת שלך עם חבריך."
+release_note = "כולל את Kavita v0.9.1.4 שנארז מקוד המקור"
+important    = ""
